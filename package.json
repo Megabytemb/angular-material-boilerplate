@@ -1,0 +1,33 @@
+{
+  "name": "angular-material-boilerplate",
+  "version": "1.0.0",
+  "description": "Boiler blate for Angular Material",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megabytemb/angular-material-boilerplate.git"
+  },
+  "author": "Michael Benz <michael@benz.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megabytemb/angular-material-boilerplate/issues"
+  },
+  "homepage": "https://github.com/megabytemb/angular-material-boilerplate#readme",
+  "devDependencies": {
+    "bower": "^1.7.1",
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csslint": "^0.2.0",
+    "gulp-htmlhint": "^0.3.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.8.0"
+  }
+}

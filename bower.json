@@ -1,0 +1,24 @@
+{
+  "name": "angular-material-boilerplate",
+  "description": "Boiler blate for Angular Material",
+  "main": "index.js",
+  "authors": [
+    "Michael Benz <michael@benz.io>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/megabytemb/angular-material-boilerplate",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-material": "~1.0.1",
+    "jquery": "~2.1.4"
+  }
+}
