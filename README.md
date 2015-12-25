@@ -3,7 +3,7 @@
 ##Install
 
 ```
-node install
+npm install
 bower install
 npm install -g gulp-cli
 ```
